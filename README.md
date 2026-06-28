@@ -2,7 +2,11 @@
 
 PricePilot is a small price-watching app for products you are interested in but do not want to buy immediately.
 
-The idea is simple: save a product link once, let the app keep track of the price, and come back when the deal actually looks worth it. It is useful for those items that usually sit in browser tabs, notes apps, or forgotten wishlists.
+The idea is simple: save a product link once, let the app keep track of the price, and come back when the deal actually looks worth it. It is useful for those items that usually sit in browser tabs[...]
+
+## Live Demo
+
+- https://price-pilot-the-smart-price-tracker-ruddy.vercel.app/
 
 ## What It Does
 
@@ -16,7 +20,7 @@ The idea is simple: save a product link once, let the app keep track of the pric
 
 ## Why I Made It
 
-Online prices move constantly, and manually checking the same product every few days gets annoying. PricePilot turns that habit into a simple dashboard: add the item, let the app check it, and make the decision later with better context.
+Online prices move constantly, and manually checking the same product every few days gets annoying. PricePilot turns that habit into a simple dashboard: add the item, let the app check it, and mak[...]
 
 ## Built With
 
@@ -150,4 +154,4 @@ For local testing, keep `NEXT_PUBLIC_APP_URL=http://localhost:3000`.
 
 ## Notes
 
-This project is designed as a practical full-stack app rather than a landing page. The first screen is the product watchlist experience, and the backend pieces are split into small files so they are easier to understand and customize.
+This project is designed as a practical full-stack app rather than a landing page. The first screen is the product watchlist experience, and the backend pieces are split into small files so they [...]
